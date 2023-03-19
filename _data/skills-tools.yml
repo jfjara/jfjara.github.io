@@ -12,25 +12,52 @@
   weight: 3
 
 - name: Scrum
-  weight: 3
+  weight: 5
 
-- name: Travis CI
-  weight: 1
+- name: IDEA Intellij
+  weight: 2
 
 - name: Jenkins
-  weight: 1
+  weight: 4
 
-- name: Chrome DevTools
+- name: Apache Kafka
+  weight: 5
+
+- name: SOLID principles
   weight: 2
 
-- name: npm
-  weight: 2
-
-- name: gulp
+- name: Hexagonal Architecture
   weight: 4
 
 - name: VS Code
-  weight: 3
+  weight: 2
 
 - name: Postman
+  weight: 2
+
+- name: Docker
+  weight: 3
+
+- name: Kubernetes
+  weight: 3
+
+- name: MongoDB
   weight: 4
+
+- name: PostgreSQL
+  weight: 3
+
+- name: REDIS
+  weight: 3
+
+- name: Cloud
+  weight: 4
+
+- name: Openshift
+  weight: 4
+
+- name: gRPC
+  weight: 3
+
+- name: RabbitMQ
+  weight: 2
