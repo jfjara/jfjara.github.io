@@ -20,7 +20,7 @@
 - title: UST Global
   title-url: https://ust.com/
   date: Nov 2021 - Present
-  subtitle: Tech Lead and Senior Backend engineer
+  subtitle: Tech Lead and Senior Backend engineer at Santander Bank
   tags:
     - tag: Java
     - tag: Spring Boot
@@ -38,34 +38,157 @@
     - tag: Openshift
   timeline-side: right
 
-- title: Google
+- title: Redegal S.L.
   title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+  date: May 2021 - Nov 2021
+  subtitle: Senior Backend engineer at Inditex
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
+    - tag: Java
+    - tag: Spring Boot
+    - tag: Apache Kafka
+    - tag: MongoDB
+    - tag: Hexagonal Architecture
+    - tag: Bamboo
+    - tag: Git
+    - tag: Cloud
+    - tag: REDIS
+    - tag: Azure AKS
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+- title: Fostering Mobility S.L.
+  title-url: https://meep.me/
+  date: Jan 2021 - May 2021
+  subtitle: Senior Backend engineer
+  tags:
+    - tag: Java
+    - tag: Spring Boot
+    - tag: Netflix OSS
+    - tag: PostgreSQL
+    - tag: Hexagonal Architecture
+    - tag: Jenkins
+    - tag: Git
+    - tag: Cloud
+    - tag: REDIS
+    - tag: Amazon AWS
+  timeline-side: right
+
+- title: atSistemas
+  title-url: https://atsistemas.com/
+  date: Sep 2017 - Jan 2021
+  subtitle: Team Lead and Senior Backend engineer
+  tags:
+    - tag: Java
+    - tag: Spring Boot
+    - tag: Oracle
+    - tag: PostgreSQL
+    - tag: RabbitMQ
+    - tag: Jenkins
+    - tag: Git
+    - tag: Cloud
+    - tag: REDIS
+    - tag: Azure AKS
+    - tag: Amazon AWS
+  timeline-side: right
+
+- title: Novadrone
+  title-url: 
+  date: Jan 2017 - Sep 2017
+  subtitle: Senior Computer engineer
+  tags:
+    - tag: Java
+    - tag: Spring Boot
+    - tag: C/C++
+    - tag: QT Framework
+    - tag: PHP
+    - tag: Javascript
+    - tag: Git
+  timeline-side: right
+
+- title: SHS Consultores
+  title-url: https://shsconsultores.es
+  date: Aug 2014 - Jan 2017
+  subtitle: Research Computer engineer
+  tags:
+    - tag: Java
+    - tag: Spring Boot
+    - tag: C/C++
+    - tag: QT Framework
+    - tag: Swing
+    - tag: Javascript
+    - tag: Git
+    - tag: Visual Studio .NET
+    - tag: Oracle
+  timeline-side: right
+
+- title: FIDETIA S.L.
+  title-url: https://fidetia.es
+  date: Jan 2013 - Aug 2014
+  subtitle: Research Computer engineer
+  tags:
+    - tag: Java
+    - tag: Spring Framework
+    - tag: C# .NET
+    - tag: Entity Framework
+    - tag: SQL Server
+    - tag: Javascript
+    - tag: Git
+    - tag: ASP.NET
+    - tag: Oracle
+  timeline-side: right
+
+- title: Arelance
+  title-url: https://arelance.es
+  date: Mar 2012 - Jan 2013
+  subtitle: Senior Computer engineer
+  tags:
+    - tag: Java
+    - tag: Swing
+    - tag: Oracle
+    - tag: SVN
+  timeline-side: right
+
+- title: Elimco Sistemas
+  title-url: https://elimcoaerospace.com
+  date: Oct 2008 - Mar 2012
+  subtitle: Computer engineer
+  tags:
+    - tag: Java
+    - tag: Spring Framework
+    - tag: Swing
+    - tag: C/C++
+    - tag: QT Framework
+    - tag: MFC
+    - tag: Javascript
+    - tag: SVN
+    - tag: Oracle
+    - tag: MySQL
+  timeline-side: right
+
+- title: UOC University
+  title-url: https://www.uoc.edu
+  date: 2010 - 2011
+  subtitle: Video games development postgraduate
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: Guadaltel
+  title-url: https://guadaltel.es
+  date: Feb 2005 - Oct 2008
+  subtitle: Computer engineer
   tags:
-    - tag: React
-    - tag: Node
+    - tag: Java
+    - tag: Spring Framework
+    - tag: Struts
+    - tag: JSP pages
+    - tag: PL/SQL
+    - tag: HTML
     - tag: Javascript
+    - tag: SVN
+    - tag: Oracle
+    - tag: MySQL
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: University of Huelva
+  title-url: https://www.uhu.es
+  date: 1999 - 2004
+  subtitle: Technical Computer Engineer
   timeline-side: left

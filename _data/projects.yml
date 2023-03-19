@@ -13,21 +13,39 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Waypoint Editor
+  descr: "A desktop editor to manage routes for UAVs"
+  demo: https://github.com/jfjara/wpeditor
   tags:
-    - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
-    - tag: Node
+    - tag: C/C++
+    - tag: QT Framework
+    - tag: Mavlink protocol
 
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: qNotes
+  descr: "Simple notes application to mark text, program alarms and so on"
+  demo: https://github.com/jfjara/qNotes
   tags:
-    - tag: Python
-    - tag: Django
+    - tag: C++
+    - tag: QT Framework
 
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+- name: reMemberMe
+  descr: "Application for reminder task, communication and alarms"
+  tags:
+    - tag: C++
+    - tag: QT Framework
+
+- name: Refereer trainer
+  descr: "Trainer register Application for physical tests"
+  demo: https://github.com/jfjara/coach
+  tags:
+    - tag: C++
+    - tag: QT Framework
+    - tag: RFID cards reader
+
+- name: Subaquatic
+  descr: "A platform game for ZX Spectrum publish with MojonTwins"
+  demo: https://www.mojontwins.com/juegos_mojonos/subacuatic/
+
+- name: Zombi Mall
+  descr: "A platform game for ZX Spectrum publish with MojonTwins"
+  demo: https://www.mojontwins.com/juegos_mojonos/zombi-mall-zx-spectrum/
